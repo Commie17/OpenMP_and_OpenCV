@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\Technologies of parallel and distributed computing\ToPDC_Lab2\Lab_2\PicturesHandler.h(50,64): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  Создание кода
+  0 of 171 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Lab_2.vcxproj -> D:\Technologies of parallel and distributed computing\ToPDC_Lab2\Lab_2\x64\Release\Lab_2.exe
