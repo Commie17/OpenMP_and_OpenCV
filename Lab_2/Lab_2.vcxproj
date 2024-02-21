@@ -135,6 +135,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="PicturesHandler.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Multiplier.h" />

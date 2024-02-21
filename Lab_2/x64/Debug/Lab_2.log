@@ -1,4 +1,8 @@
 ﻿  main.cpp
-D:\Technologies of parallel and distributed computing\ToPDC_Lab2\Lab_2\PicturesHandler.h(75,64): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-D:\Technologies of parallel and distributed computing\ToPDC_Lab2\Lab_2\PicturesHandler.h(113,64): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-  Lab_2.vcxproj -> D:\Technologies of parallel and distributed computing\ToPDC_Lab2\Lab_2\x64\Debug\Lab_2.exe
+D:\Technologies of parallel and distributed computing\ToPDC_Lab2\OpenMP_and_OpenCV\Lab_2\OpenMP_and_OpenCV\Lab_2\Multiplier.h(33,23): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\Technologies of parallel and distributed computing\ToPDC_Lab2\OpenMP_and_OpenCV\Lab_2\OpenMP_and_OpenCV\Lab_2\Multiplier.h(34,23): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\Technologies of parallel and distributed computing\ToPDC_Lab2\OpenMP_and_OpenCV\Lab_2\OpenMP_and_OpenCV\Lab_2\Multiplier.h(128,23): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\Technologies of parallel and distributed computing\ToPDC_Lab2\OpenMP_and_OpenCV\Lab_2\OpenMP_and_OpenCV\Lab_2\Multiplier.h(129,23): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\Technologies of parallel and distributed computing\ToPDC_Lab2\OpenMP_and_OpenCV\Lab_2\OpenMP_and_OpenCV\Lab_2\Multiplier.h(199,23): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\Technologies of parallel and distributed computing\ToPDC_Lab2\OpenMP_and_OpenCV\Lab_2\OpenMP_and_OpenCV\Lab_2\Multiplier.h(200,23): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  Lab_2.vcxproj -> D:\Technologies of parallel and distributed computing\ToPDC_Lab2\OpenMP_and_OpenCV\Lab_2\OpenMP_and_OpenCV\Lab_2\x64\Debug\Lab_2.exe
